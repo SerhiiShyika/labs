@@ -10,5 +10,6 @@
   <Project Path="Lab-4.1/Lab-4.1.vcxproj" Id="c19f5f88-31ef-4f0b-941f-88a799984909" />
   <Project Path="Lab-4.2/Lab-4.2.vcxproj" Id="45c44545-5705-4a21-bfd5-157ba3b442f8" />
   <Project Path="Lab-4.3/Lab-4.3.vcxproj" Id="804abb75-876e-47c7-be65-592db293e3da" />
+  <Project Path="Lab-4.4/Lab-4.4.vcxproj" Id="15fab1a6-7974-462d-8c7b-a7ebd130d57c" />
   <Project Path="PR2.1/PR2.1.vcxproj" Id="8207f6bb-e800-4d29-b8ef-5d22ecfc2a2b" />
 </Solution>
