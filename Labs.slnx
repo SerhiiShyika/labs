@@ -4,5 +4,9 @@
     <Platform Name="x86" />
   </Configurations>
   <Project Path="Lab-3.1/Lab-3.1.vcxproj" Id="fae470e5-ed6c-434b-b0e7-1f55bc813e12" />
+  <Project Path="Lab-3.2/Lab-3.2.vcxproj" Id="6085864d-d384-40f3-9fa1-42c118c2458c" />
+  <Project Path="Lab-3.3/Lab-3.3.vcxproj" Id="97ae009a-b153-40aa-a8b5-70c28cc1d21e" />
+  <Project Path="Lab-3.4/Lab-3.4.vcxproj" Id="1604cf9e-d654-4884-b22a-f0052c47b018" />
+  <Project Path="Lab-4.1/Lab-4.1.vcxproj" Id="c19f5f88-31ef-4f0b-941f-88a799984909" />
   <Project Path="PR2.1/PR2.1.vcxproj" Id="8207f6bb-e800-4d29-b8ef-5d22ecfc2a2b" />
 </Solution>
